@@ -43,14 +43,14 @@ This project demonstrates modern frontend development, API integration, and auth
 
 📸 Screenshots
 
-  ### Home Page
-![Home](./assets/screenshots/home_page.png)
+### Home Page
+![Home](./src/assets/screenshots/home_page.png)
 
-  ### Login Page
-![Login](./assets/screenshots/login.png)
+### Login Page
+![Login](./src/assets/screenshots/login.png)
 
-  ### SignUp Page
-![SignUp](./assets/screenshots/signup.png)
+### SignUp Page
+![SignUp](./src/assets/screenshots/signup.png)
 
 ⭐ Acknowledgements
 

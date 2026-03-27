@@ -1,16 +1,63 @@
-# React + Vite
+A Netflix-inspired movie streaming application built with React and Vite.  
+This project demonstrates modern frontend development, API integration, and authentication workflows.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Demo
 
-Currently, two official plugins are available:
+👉 https://kulkarni-kanchan.github.io/netflix-clone-project/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
 
-## React Compiler
+⚛️ React (Frontend UI)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⚡ Vite (Fast build tool)
 
-## Expanding the ESLint configuration
+🔥 Firebase (Authentication & Database)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎬 TMDB API (Movie data)
+
+🎨 CSS (Styling)
+
+✨ Features
+
+🔐 User Authentication (Sign In / Sign Up)
+
+🎥 Browse Movies & TV Shows
+
+📺 Dynamic Content Rendering
+
+⚡ Fast Performance with Vite
+
+📱 Responsive Design
+
+🔄 Real-time data using API
+
+⚠️ Important Note
+
+This project is built for educational purposes only.
+
+It is not affiliated with any official streaming platform
+
+Do not use real credentials while testing
+
+All movie data is fetched from public APIs
+
+📸 Screenshots
+
+### Home Page
+![Home](./assets/home_page.png)
+
+### Login Page
+![Login](./assets/login.png)
+
+### SignUp Page
+![SignUp](./assets/lsignup.png)
+
+⭐ Acknowledgements
+
+TMDB API for movie data
+
+Firebase for backend services
+
+⭐ If you like this project
+
+Give it a ⭐ on GitHub!
